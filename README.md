@@ -16,7 +16,9 @@
 ## Hakkında
 
 React
+
 Axios: API'den veri çekmek için
+
 CSS: Stil ve responsive tasarım için
 
 Bu proje, React kullanılarak geliştirilmiş basit bir döviz kuru takip uygulamasıdır. Kullanıcıların güncel döviz kurlarını görüntüleyebileceği ve farklı para birimleri arasında dönüşüm yapabileceği bir arayüz sunar.
